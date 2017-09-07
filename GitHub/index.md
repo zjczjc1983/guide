@@ -1,7 +1,5 @@
-名字和Email设定
-
-git config --global user.name "Your Name"
-
+名字和Email设定  
+git config --global user.name "Your Name"  
 git config --global user.email "email@example.com"
 
 ***
