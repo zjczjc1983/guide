@@ -1,13 +1,13 @@
-收集了一些好的模板素材：<br>
-http://demo.cssmoban.com/cssthemes4/hxc_18_sedna/index.html#download
-http://demo.cssmoban.com/cssthemes4/hxc_15_Infinity/index.html#top
-http://demo.cssmoban.com/cssthemes4/btzero_5_pratt/index.html#
-http://demo.cssmoban.com/cssthemes4/frtp_3_frittt/index.html
-http://demo.cssmoban.com/cssthemes4/sbtp_36_bj/index-transparent.html
-http://demo.cssmoban.com/cssthemes4/dstp_26_startr/index.html
-http://demo.cssmoban.com/cssthemes4/cpts_579_yt/index.html
-http://demo.cssmoban.com/cssthemes4/cpts_554_vz/index.html
-http://demo.cssmoban.com/cssthemes4/btts_39_erj/index.html
-http://demo.cssmoban.com/cssthemes4/btts_24_iia/index.html
-http://demo.cssmoban.com/cssthemes4/btts_4_rq/index.html
-模板来自于[模板之家](http://www.cssmoban.com)
+## 收集了一些好的模板素材：
+* http://demo.cssmoban.com/cssthemes4/hxc_18_sedna/index.html#download
+* http://demo.cssmoban.com/cssthemes4/hxc_15_Infinity/index.html#top
+* http://demo.cssmoban.com/cssthemes4/btzero_5_pratt/index.html#
+* http://demo.cssmoban.com/cssthemes4/frtp_3_frittt/index.html
+* http://demo.cssmoban.com/cssthemes4/sbtp_36_bj/index-transparent.html
+* http://demo.cssmoban.com/cssthemes4/dstp_26_startr/index.html
+* http://demo.cssmoban.com/cssthemes4/cpts_579_yt/index.html
+* http://demo.cssmoban.com/cssthemes4/cpts_554_vz/index.html
+* http://demo.cssmoban.com/cssthemes4/btts_39_erj/index.html
+* http://demo.cssmoban.com/cssthemes4/btts_24_iia/index.html
+* http://demo.cssmoban.com/cssthemes4/btts_4_rq/index.html
+> 模板来自于[模板之家](http://www.cssmoban.com)
